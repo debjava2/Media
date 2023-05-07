@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "name": "Melody Tromp",
-      "id": 13
-    },
-    {
       "name": "Christina Rohan",
       "id": 14
     },
@@ -13,70 +9,31 @@
       "id": 15
     },
     {
-      "name": "Israel Fahey",
+      "name": "Jesus Trantow",
       "id": 16
-    },
-    {
-      "name": "Mrs. Noel Hudson",
-      "id": 17
-    },
-    {
-      "name": "Felix Grady",
-      "id": 18
-    },
-    {
-      "name": "Brandon Miller II",
-      "id": 19
-    },
-    {
-      "name": "Wilma Senger",
-      "id": 20
-    },
-    {
-      "name": "Tommie Ziemann",
-      "id": 21
-    },
-    {
-      "name": "Loren Franecki",
-      "id": 22
-    },
-    {
-      "name": "Meredith Abernathy",
-      "id": 23
-    },
-    {
-      "name": "Mrs. Zachary Greenfelder",
-      "id": 24
-    },
-    {
-      "name": "Lela Waelchi",
-      "id": 25
-    },
-    {
-      "name": "Alan Will",
-      "id": 26
-    },
-    {
-      "name": "Ms. Ricardo Ullrich",
-      "id": 27
-    },
-    {
-      "name": "Shannon Hayes PhD",
-      "id": 28
-    },
-    {
-      "name": "Maggie Collins",
-      "id": 29
-    },
-    {
-      "name": "Lillie Collins",
-      "id": 30
-    },
-    {
-      "name": "Meghan Runte",
-      "id": 31
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 15,
+      "title": "Electronic Wooden Hat",
+      "id": 5
+    },
+    {
+      "userId": 15,
+      "title": "Handcrafted Rubber Shirt",
+      "id": 6
+    },
+    {
+      "userId": 15,
+      "title": "Incredible Fresh Cheese",
+      "id": 7
+    },
+    {
+      "userId": 16,
+      "title": "Fantastic Metal Fish",
+      "id": 8
+    }
+  ],
   "photos": []
 }
