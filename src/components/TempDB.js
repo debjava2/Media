@@ -1,0 +1,109 @@
+{
+    "users": [
+      {
+        "name": "Christina Rohan",
+        "id": 14
+      },
+      {
+        "name": "Darlene Lebsack",
+        "id": 15
+      },
+      {
+        "name": "Jesus Trantow",
+        "id": 16
+      },
+      {
+        "name": "Eleanor Purdy",
+        "id": 17
+      }
+    ],
+    "albums": [
+      {
+        "userId": 15,
+        "title": "Electronic Wooden Hat",
+        "id": 5
+      },
+      {
+        "userId": 15,
+        "title": "Handcrafted Rubber Shirt",
+        "id": 6
+      },
+      {
+        "userId": 15,
+        "title": "Incredible Fresh Cheese",
+        "id": 7
+      },
+      {
+        "userId": 16,
+        "title": "Fantastic Metal Fish",
+        "id": 8
+      },
+      {
+        "userId": 15,
+        "title": "Gorgeous Plastic Car",
+        "id": 14
+      },
+      {
+        "userId": 14,
+        "title": "Licensed Cotton Shoes",
+        "id": 16
+      },
+      {
+        "userId": 14,
+        "title": "Handcrafted Plastic Tuna",
+        "id": 17
+      },
+      {
+        "userId": 15,
+        "title": "Practical Steel Sausages",
+        "id": 18
+      },
+      {
+        "userId": 14,
+        "title": "Unbranded Plastic Mouse",
+        "id": 21
+      },
+      {
+        "userId": 16,
+        "title": "Awesome Frozen Table",
+        "id": 23
+      },
+      {
+        "userId": 16,
+        "title": "Fantastic Fresh Fish",
+        "id": 24
+      },
+      {
+        "userId": 17,
+        "title": "Intelligent Metal Gloves",
+        "id": 25
+      }
+    ],
+    "photos": [
+      {
+        "albumId": 25,
+        "url": "https://loremflickr.com/150/150/abstract?lock=21922",
+        "id": 1
+      },
+      {
+        "albumId": 25,
+        "url": "https://loremflickr.com/150/150/abstract?lock=10512",
+        "id": 2
+      },
+      {
+        "albumId": 16,
+        "url": "https://loremflickr.com/150/150/abstract?lock=77845",
+        "id": 3
+      },
+      {
+        "albumId": 16,
+        "url": "https://loremflickr.com/150/150/abstract?lock=9054",
+        "id": 4
+      },
+      {
+        "albumId": 25,
+        "url": "https://loremflickr.com/150/150/abstract?lock=93711",
+        "id": 5
+      }
+    ]
+  }
